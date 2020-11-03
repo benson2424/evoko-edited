@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="69" viewBox="0 0 66 69">
+  <defs>
+    <clipPath id="clip-Porftolio_Cursor">
+      <rect width="66" height="69"/>
+    </clipPath>
+  </defs>
+  <g id="Porftolio_Cursor" data-name="Porftolio Cursor" clip-path="url(#clip-Porftolio_Cursor)">
+    <g id="Grupo_33" data-name="Grupo 33" transform="translate(-10 -4)">
+      <path id="Trazado_52" data-name="Trazado 52" d="M-2646.058,283.029l-6.686-52.743L-2600,239.2" transform="translate(2669 -219)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="9"/>
+      <circle id="Elipse_24" data-name="Elipse 24" cx="8" cy="8" r="8" transform="translate(58 54)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
